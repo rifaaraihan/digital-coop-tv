@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\Ehan\\Desktop\\digital-coop-tv",
+  "type": [
+    "web"
+  ],
+  "name": "digital-coop-tv",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
